@@ -9,6 +9,6 @@ Portfolio Website
 5. Contact Us
 6. Footer [Nav Bar]
 
-Idea 1: Web Development
-Idea 2: Web Dev Lessons - HTML/CSS Templates per section
+Idea 1: Web Development <br>
+Idea 2: Web Dev Lessons - HTML/CSS Templates per section <br>
 Idea 3:
